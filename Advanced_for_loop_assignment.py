@@ -9,7 +9,7 @@ fact=1
 for i in range(1,num+1):
 	fact=i*fact
 	print(fact,i,"*",fact)
-	
+
 
 
 # 3️
@@ -22,3 +22,6 @@ for i in range(1,num+1):
 # ] Remove duplicates from a list using loop.
 # 7️
 # ] Check whether a number is Armstrong number.
+
+
+print("hello")
